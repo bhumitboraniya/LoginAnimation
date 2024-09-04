@@ -1,3 +1,11 @@
+## Images:
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/4e0fcad0-29c7-4e80-9984-403f0c04384c" width="300" height="150">
+  <img src="https://github.com/user-attachments/assets/c9eefafa-7c31-421e-9ea3-2e65888cd730" width="300" height="150">
+  <img src="https://github.com/user-attachments/assets/951b8b05-cc54-400c-a111-ecad3080b6b5" width="300" height="150">
+</p>
+
 # LoginAnimation
 
 Welcome to the Animated Login Screen App! This repository showcases an interactive and visually appealing login screen for your mobile application. The animations are powered by Rive, adding a touch of elegance to the user experience.
